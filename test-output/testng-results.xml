@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-08T02:32:20 GMT+06:00" name="Default suite" finished-at="2025-05-08T02:34:04 GMT+06:00" duration-ms="104525">
+    <groups>
+    </groups>
+    <test started-at="2025-05-08T02:32:20 GMT+06:00" name="Default test" finished-at="2025-05-08T02:34:04 GMT+06:00" duration-ms="104525">
+      <class name="execution.TestExecution">
+        <test-method is-config="true" signature="setupTest()[pri:0, instance:execution.TestExecution@5f9edf14]" started-at="2025-05-08T02:32:20 GMT+06:00" name="setupTest" finished-at="2025-05-08T02:32:25 GMT+06:00" duration-ms="4788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="loginFunctionality()[pri:1, instance:execution.TestExecution@5f9edf14]" started-at="2025-05-08T02:32:25 GMT+06:00" name="loginFunctionality" finished-at="2025-05-08T02:32:27 GMT+06:00" duration-ms="2307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFunctionality -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:execution.TestExecution@5f9edf14]" started-at="2025-05-08T02:32:27 GMT+06:00" name="closeBrowser" finished-at="2025-05-08T02:32:27 GMT+06:00" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setupTest()[pri:0, instance:execution.TestExecution@5f9edf14]" started-at="2025-05-08T02:32:27 GMT+06:00" name="setupTest" finished-at="2025-05-08T02:32:31 GMT+06:00" duration-ms="3764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="loginNegative()[pri:2, instance:execution.TestExecution@5f9edf14]" started-at="2025-05-08T02:32:31 GMT+06:00" name="loginNegative" finished-at="2025-05-08T02:32:35 GMT+06:00" duration-ms="4519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginNegative -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:execution.TestExecution@5f9edf14]" started-at="2025-05-08T02:32:35 GMT+06:00" name="closeBrowser" finished-at="2025-05-08T02:32:36 GMT+06:00" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setupTest()[pri:0, instance:execution.TestExecution@5f9edf14]" started-at="2025-05-08T02:32:36 GMT+06:00" name="setupTest" finished-at="2025-05-08T02:32:39 GMT+06:00" duration-ms="3444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="AddToCart()[pri:3, instance:execution.TestExecution@5f9edf14]" started-at="2025-05-08T02:32:39 GMT+06:00" name="AddToCart" finished-at="2025-05-08T02:32:48 GMT+06:00" duration-ms="8616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToCart -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:execution.TestExecution@5f9edf14]" started-at="2025-05-08T02:32:48 GMT+06:00" name="closeBrowser" finished-at="2025-05-08T02:32:48 GMT+06:00" duration-ms="213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setupTest()[pri:0, instance:execution.TestExecution@5f9edf14]" started-at="2025-05-08T02:32:48 GMT+06:00" name="setupTest" finished-at="2025-05-08T02:32:53 GMT+06:00" duration-ms="4577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="CheckOut()[pri:4, instance:execution.TestExecution@5f9edf14]" started-at="2025-05-08T02:32:53 GMT+06:00" name="CheckOut" finished-at="2025-05-08T02:33:07 GMT+06:00" duration-ms="14051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckOut -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:execution.TestExecution@5f9edf14]" started-at="2025-05-08T02:33:07 GMT+06:00" name="closeBrowser" finished-at="2025-05-08T02:33:07 GMT+06:00" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setupTest()[pri:0, instance:execution.TestExecution@5f9edf14]" started-at="2025-05-08T02:33:07 GMT+06:00" name="setupTest" finished-at="2025-05-08T02:33:11 GMT+06:00" duration-ms="3923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="Sorting_Products()[pri:5, instance:execution.TestExecution@5f9edf14]" started-at="2025-05-08T02:33:11 GMT+06:00" name="Sorting_Products" finished-at="2025-05-08T02:33:30 GMT+06:00" duration-ms="19063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sorting_Products -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:execution.TestExecution@5f9edf14]" started-at="2025-05-08T02:33:30 GMT+06:00" name="closeBrowser" finished-at="2025-05-08T02:33:30 GMT+06:00" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setupTest()[pri:0, instance:execution.TestExecution@5f9edf14]" started-at="2025-05-08T02:33:30 GMT+06:00" name="setupTest" finished-at="2025-05-08T02:33:36 GMT+06:00" duration-ms="5921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="LogoutFunctionalityTest()[pri:6, instance:execution.TestExecution@5f9edf14]" started-at="2025-05-08T02:33:36 GMT+06:00" name="LogoutFunctionalityTest" finished-at="2025-05-08T02:33:44 GMT+06:00" duration-ms="8557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutFunctionalityTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:execution.TestExecution@5f9edf14]" started-at="2025-05-08T02:33:44 GMT+06:00" name="closeBrowser" finished-at="2025-05-08T02:33:45 GMT+06:00" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setupTest()[pri:0, instance:execution.TestExecution@5f9edf14]" started-at="2025-05-08T02:33:45 GMT+06:00" name="setupTest" finished-at="2025-05-08T02:33:49 GMT+06:00" duration-ms="4456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="LockedOutUserValidation()[pri:7, instance:execution.TestExecution@5f9edf14]" started-at="2025-05-08T02:33:49 GMT+06:00" name="LockedOutUserValidation" finished-at="2025-05-08T02:33:53 GMT+06:00" duration-ms="4301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LockedOutUserValidation -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:execution.TestExecution@5f9edf14]" started-at="2025-05-08T02:33:53 GMT+06:00" name="closeBrowser" finished-at="2025-05-08T02:33:54 GMT+06:00" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setupTest()[pri:0, instance:execution.TestExecution@5f9edf14]" started-at="2025-05-08T02:33:54 GMT+06:00" name="setupTest" finished-at="2025-05-08T02:33:58 GMT+06:00" duration-ms="4102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="CartBadgeCountValidation()[pri:8, instance:execution.TestExecution@5f9edf14]" started-at="2025-05-08T02:33:58 GMT+06:00" name="CartBadgeCountValidation" finished-at="2025-05-08T02:34:04 GMT+06:00" duration-ms="6457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CartBadgeCountValidation -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:execution.TestExecution@5f9edf14]" started-at="2025-05-08T02:34:04 GMT+06:00" name="closeBrowser" finished-at="2025-05-08T02:34:04 GMT+06:00" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- execution.TestExecution -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
